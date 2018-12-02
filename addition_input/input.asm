@@ -4,6 +4,7 @@
 ; I know this probably sucks and is really bad, just messing with it.
 ;
 ; Author: P Talbot
+;
 
 section .data
     msg1 db 'Enter the first number: '          ; Tell user to input a number.
